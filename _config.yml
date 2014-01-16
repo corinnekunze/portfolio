@@ -1,0 +1,5 @@
+name: Corinne Kunze - Front-End Development
+markdown: redcarpet
+pygments: true
+gems:
+- jekyll-compass
