@@ -271,3 +271,6 @@ textarea {
 
   .year-in-review, .timeline {
     background-position: center center; } }
+@media (max-width: 435px) {
+  .worktogether {
+    padding-left: 40px; } }
