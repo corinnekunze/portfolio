@@ -211,7 +211,7 @@ textarea {
   background: url("../img/timeline.jpg");
   background-size: cover; }
 
-.time-converter, .portfolio {
+.time-converter, .portfolio, .guest-book {
   margin-top: 40px; }
 
 .portfolio {
